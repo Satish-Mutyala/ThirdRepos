@@ -11,7 +11,7 @@ namespace MyNameSpace
 {
     public partial class SummaryForm : Form
     {
-        decimal totalSalesDecimal;
+        decimal totalSalesDecimal =0; //Initialised to zero
         int numberOrdersInteger, drinksSoldInteger;
 
         public decimal TotalSales
