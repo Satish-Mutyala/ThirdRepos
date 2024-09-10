@@ -4,6 +4,7 @@ namespace MyNameSpace
     {
         /// <summary>
         /// Required designer variable.
+        /// Satish comment 2 - discount_type
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
