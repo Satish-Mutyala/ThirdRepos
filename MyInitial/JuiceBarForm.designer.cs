@@ -4,6 +4,7 @@ namespace MyNameSpace
     {
         /// <summary>
         /// Required designer variable.
+        /// Added Satish ticker branch
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
